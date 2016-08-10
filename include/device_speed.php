@@ -1,0 +1,1 @@
+<?php  defined("DEVICE_SPEED")?NULL:define("DEVICE_SPEED",64000);  ?>

@@ -1,0 +1,40 @@
+ body { background:#}
+.dark { background:#444;}
+
+div#topHeader { padding:15px 5px; background: url(../img/menu_bg.png) repeat #f9f9f9; border-bottom:2px solid #dfdfdf;}
+div#topHeader div p { font-size:14px; }
+ div#topHeader div#balanceStatus p { margin:0px; padding:0px; color:#03C; font-weight:bold;}
+ div#topHeader div#userName { background: ; border:1px solid #d8d8d8; padding-top:5px; margin-right:5px;}
+ div#topHeader div#userName p { font-weight:bold; font-size:16px;}
+  div#topHeader div#userName p span{ padding-left:10px;}
+  
+  
+/*   For LeftPannel Design  */
+div#leftPannel { }
+div#leftPannel ul{ list-style:none; margin:0px; padding:0px 15px 1px 0px; margin-left:5px; background:#dcdadc; }
+div#leftPannel ul li { margin:0px; padding:0px; background:#e4e6e4; padding:8px 4px; color:#443e1c; font-weight:bold; border-bottom:1px solid #bcbaac; border-top:1px solid #efefef; cursor:pointer; font-size:16px; text-align:right; font-family:Verdana, Geneva, sans-serif; }
+div#leftPannel ul li:hover { color:#e48e2c;}
+div#leftPannel ul ul { margin:0px; padding:0px; background:none; display: ;}
+div#leftPannel ul ul li { padding:0px; margin:0px; font-weight:normal; }
+div#leftPannel ul ul li a { display:block; background: url(../img/menu_bg.png) repeat #d4d2cc; color:#9c7a54; padding:3px 2px; font-size:14px; text-align:left; } 
+div#leftPannel ul ul li a:hover { background:#; color:#694d2e ; font-weight:; text-decoration:none;}
+
+
+
+/* Contaner Area style */
+div#content_header {}
+div#content_header h4.contentTitle { text-align:left; padding:10px 4px; background:#30363D; width:300px; color:#FFF; margin:10px 0px 0px 0px; -moz-box-shadow:0px -4px 4px #888; 
+-webkit-box-shadow: 0px -4px 4px #888; 
+box-shadow: 0px -2px 4px #888;   }
+
+hr.match { margin:0px 0px 10px 0px; padding:0px; height:2px; border:none; background:#F63; }
+
+section#footer_sections { background: url(../img/menu_bg.png) repeat #f9f9f9; border-top:2px solid #dfdfdf;}
+section#footer_sections div { height:; } 
+section#footer_sections div p { text-align:center; font-size:16px; padding-top:10px;}
+
+div#select_date  span { margin-top:-10px; margin-right:10px;}
+
+@media (max-width: 767px) {
+	 
+	}
